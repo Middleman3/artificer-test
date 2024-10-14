@@ -1,0 +1,142 @@
+```json
+{
+  "advertising_strategy": [
+    {
+      "ad_campaign": {
+        "selected_channels": [
+          {
+            "channel_name": "Facebook",
+            "bidding_strategy": {
+              "image_ads": "CPM",
+              "video_ads": "CPV"
+            }
+          },
+          {
+            "channel_name": "Instagram",
+            "bidding_strategy": {
+              "photo_ads": "CPE",
+              "reel_ads": "CPV"
+            }
+          },
+          {
+            "channel_name": "Google",
+            "bidding_strategy": {
+              "display_ads": "CPC",
+              "video_ads": "CPM"
+            }
+          }
+        ],
+        "targeting_parameters": {
+          "age_range": "18-35",
+          "locations": ["Asia", "South America"],
+          "interests": ["Technology", "Mobile Apps", "Innovation"]
+        },
+        "goal": "Increase global user base by 25%",
+        "budget_breakdown": {
+          "total": 1000000,
+          "per_channel": {
+            "Facebook": 300000,
+            "Instagram": 300000,
+            "Google": 400000
+          }
+        },
+        "schedule": {
+          "start_date": "2023-11-01",
+          "end_date": "2024-04-30",
+          "frequency": "bi-weekly"
+        },
+        "analytics_tracking_plan": {
+          "utm_setup": "Configured across Facebook, Instagram, and Google",
+          "kpis": [
+            "Impressions",
+            "User Growth Rate",
+            "Mobile App Adoption Rate"
+          ]
+        }
+      }
+    },
+    {
+      "ad_campaign": {
+        "selected_channels": [
+          {
+            "channel_name": "LinkedIn",
+            "bidding_strategy": {
+              "sponsored_content": "CPC",
+              "dynamic_ads": "CPM"
+            }
+          },
+          {
+            "channel_name": "Twitter",
+            "bidding_strategy": {
+              "promoted_tweet": "CPE",
+              "promoted_video": "CPA"
+            }
+          }
+        ],
+        "targeting_parameters": {
+          "age_range": "25-40",
+          "locations": ["North America", "Europe"],
+          "interests": ["Business", "Tech Industry", "Innovation"]
+        },
+        "goal": "Increase engagement through mobile platforms",
+        "budget_breakdown": {
+          "total": 750000,
+          "per_channel": {
+            "LinkedIn": 400000,
+            "Twitter": 350000
+          }
+        },
+        "schedule": {
+          "start_date": "2023-11-01",
+          "end_date": "2024-04-30",
+          "frequency": "monthly"
+        },
+        "analytics_tracking_plan": {
+          "utm_setup": "Configured for LinkedIn and Twitter",
+          "kpis": [
+            "Engagement Rate",
+            "Mobile Platform Interactions"
+          ]
+        }
+      }
+    },
+    {
+      "ad_campaign": {
+        "selected_channels": [
+          {
+            "channel_name": "Google",
+            "bidding_strategy": {
+              "search_ads": "CPC",
+              "display_ads": "CPA"
+            }
+          }
+        ],
+        "targeting_parameters": {
+          "age_range": "18-35",
+          "locations": ["Global"],
+          "interests": ["Tech Startups", "Digital Tools"]
+        },
+        "goal": "Boost customer retention by 15%",
+        "budget_breakdown": {
+          "total": 500000,
+          "per_channel": {
+            "Google": 500000
+          }
+        },
+        "schedule": {
+          "start_date": "2023-11-01",
+          "end_date": "2024-06-30",
+          "frequency": "continuous"
+        },
+        "analytics_tracking_plan": {
+          "utm_setup": "Comprehensive UTM setup",
+          "kpis": [
+            "Customer Retention Rate",
+            "Recurring User Engagement"
+          ]
+        }
+      }
+    }
+  ]
+}
+```
