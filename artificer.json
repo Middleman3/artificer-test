@@ -1,0 +1,29 @@
+{
+    "artifacts": [
+        {
+            "fileName": "advertising_strategy.json"
+        }
+    ],
+    "dependencies": [
+        {
+            "from": "company_context.md",
+            "to": "advertising_strategy.json"
+        },
+        {
+            "from": "marketing_budget.json",
+            "to": "advertising_strategy.json"
+        },
+        {
+            "from": "brand_guidelines.md",
+            "to": "advertising_strategy.json"
+        },
+        {
+            "from": "channel_catalog.json",
+            "to": "advertising_strategy.json"
+        },
+        {
+            "from": "campaign_catalog.json",
+            "to": "advertising_strategy.json"
+        }
+    ]
+}

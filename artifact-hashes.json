@@ -1,0 +1,25 @@
+{
+  "brand_guidelines.md": {
+    "current": "c372bd81cd0a20165b0b72e88293eed3f6c117f73a2d38b995a5e10c19e59713"
+  },
+  "campaign_catalog.json": {
+    "current": "b8da5806def6051a00d16957531ba38a30b7687d46694447dbf88b50689731fa"
+  },
+  "channel_catalog.json": {
+    "current": "dab6098bae6da010c6e5be7b08259d01baa1b5a7df07f47e7ced35ec8f3c8da5"
+  },
+  "company_context.md": {
+    "current": "27974fe8e067322a584b83320773de601fa2556e68bdfd545bedc2bc9b0e78b7"
+  },
+  "marketing_budget.json": {
+    "current": "6945d18a8ac5eb7b44dfbb7a756ee8b78ba0a0452baa45f0358a71a717291406"
+  },
+  "advertising_strategy.json": {
+    "current": "5c6d016d551fba2e9b7fe376f80e2fbd470717c15ceebaeaf6689d5ac155bddd",
+    "company_context.md": "27974fe8e067322a584b83320773de601fa2556e68bdfd545bedc2bc9b0e78b7",
+    "marketing_budget.json": "6945d18a8ac5eb7b44dfbb7a756ee8b78ba0a0452baa45f0358a71a717291406",
+    "brand_guidelines.md": "c372bd81cd0a20165b0b72e88293eed3f6c117f73a2d38b995a5e10c19e59713",
+    "channel_catalog.json": "dab6098bae6da010c6e5be7b08259d01baa1b5a7df07f47e7ced35ec8f3c8da5",
+    "campaign_catalog.json": "b8da5806def6051a00d16957531ba38a30b7687d46694447dbf88b50689731fa"
+  }
+}
