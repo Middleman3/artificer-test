@@ -1,69 +1,85 @@
-Here's the tailored JSON object for your advertising strategy, incorporating the provided input parameters:
-
 ```json
 {
   "selected_channels": [
     {
       "channel_name": "Facebook",
       "bidding_strategy": {
-        "Video Ad": "CPV",
-        "Carousel Ad": "CPA"
+        "Video Ad": "CPM",
+        "Image Ad": "CPC"
       }
     },
     {
       "channel_name": "Instagram",
       "bidding_strategy": {
         "Reel Ad": "CPV",
-        "Photo Ad": "CPE"
+        "Photo Ad": "CPM"
       }
     },
     {
       "channel_name": "Google",
       "bidding_strategy": {
         "Search Ad": "CPC",
-        "Video Ad": "CPV"
-      }
-    },
-    {
-      "channel_name": "LinkedIn",
-      "bidding_strategy": {
-        "Sponsored Content": "CPC",
-        "Dynamic Ad": "CPM"
+        "Display Ad": "CPA"
       }
     }
   ],
   "targeting_parameters": {
     "age_range": "18-35",
     "locations": ["Asia", "South America"],
-    "interests": ["Technology", "Innovation", "Digital Solutions"]
+    "interests": ["Tech innovations", "Mobile apps", "Data-driven solutions"]
   },
   "goal": {
-    "description": "Increase global user base and drive mobile app adoption"
+    "description": "Increase global user base and mobile app adoption"
   },
   "budget_breakdown": {
     "total": 1000000,
     "per_channel": {
-      "Facebook": 250000,
-      "Instagram": 250000,
-      "Google": 250000,
-      "LinkedIn": 250000
+      "Facebook": 350000,
+      "Instagram": 300000,
+      "Google": 350000
     }
   },
   "schedule": {
     "start_date": "2023-11-01",
-    "end_date": "2024-03-31",
-    "frequency": "daily"
+    "end_date": "2024-12-31",
+    "frequency": "monthly"
   },
   "analytics_tracking_plan": {
-    "utm_setup": "Configured",
-    "kpis": ["Impressions", "App installs", "Conversion rate", "Customer retention"]
+    "utm_setup": "Configured for multi-channel campaign",
+    "kpis": [
+      "Global user base growth",
+      "Mobile app adoption rate",
+      "Customer engagement metrics"
+    ]
   }
 }
 ```
 
-### Key Considerations:
-- **Selected Channels and Bidding Strategies**: The chosen channels and bidding strategies are aligned with both the current targeting focus of young global users and the diverse ad offerings that meet the campaign goals (e.g., CPV to drive video engagement and CPC/CPE to maximize interaction).
-- **Targeting Parameters**: The focus on emerging markets in Asia and South America, as well as interests in technology and innovation, aligns well with your expansion goals and demographic focus.
-- **Goals and KPIs**: Targeting an increase in the global user base, particularly through mobile app adoption, supports the company's year-end KPIs. The selected KPIs reflect the progress towards these goals.
-- **Budget Breakdown**: Even distribution of the budget across channels allows for maximized visibility and reach in diverse markets and ad spaces.
-- **Scheduling**: The campaign runs over a period that overlaps with the release of new features, ensuring sustained engagement.
+### Explanation:
+
+1. **Selected Channels & Bidding Strategies**: 
+   - **Facebook**: Utilized for its broad global reach and effective video ad capabilities to drive awareness and engagement.
+     - **Video Ad** with a CPM strategy is selected to maximize exposure.
+     - **Image Ad** with a CPC strategy to increase traffic and potential conversions.
+   - **Instagram**: Chosen for its strong visual appeal and engagement rates among younger demographics.
+     - **Reel Ad** with CPV to engage users with new features.
+     - **Photo Ad** using CPM to maintain a visual presence.
+   - **Google**: Ideal for driving website traffic and conversions through search and display ads.
+     - **Search Ad** using CPC to drive targeted traffic.
+     - **Display Ad** with CPA to optimize for conversions.
+
+2. **Targeting Parameters**: 
+   - Tailored to reach young and tech-savvy audiences in emerging markets in Asia and South America, aligning with the current demographic focus.
+
+3. **Goal**: 
+   - Directly aligned with the company’s year-end KPI of increasing the global user base and the adoption of mobile solutions, emphasizing awareness and engagement.
+
+4. **Budget Breakdown**: 
+   - The funds are distributed across major platforms to leverage their unique strengths in accordance with the campaign goals, ensuring a balanced approach to reach and engagement.
+
+5. **Schedule**:
+   - The campaign spans over 14 months, allowing for sustained engagement and ongoing optimizations.
+
+6. **Analytics Tracking Plan**: 
+   - Emphasizes setting up UTM parameters for effective cross-channel tracking.
+   - Focus on key performance indicators that reflect the campaign’s impact on user base growth and mobile app adoption, ensuring alignment with strategic objectives.

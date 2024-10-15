@@ -2,29 +2,22 @@
   {
     "channel_name": "Facebook",
     "bidding_strategy": {
-      "Video Ad": "CPV",
-      "Carousel Ad": "CPA"
+      "Video Ad": "CPM",
+      "Image Ad": "CPC"
     }
   },
   {
     "channel_name": "Instagram",
     "bidding_strategy": {
       "Reel Ad": "CPV",
-      "Photo Ad": "CPE"
+      "Photo Ad": "CPM"
     }
   },
   {
     "channel_name": "Google",
     "bidding_strategy": {
       "Search Ad": "CPC",
-      "Video Ad": "CPV"
-    }
-  },
-  {
-    "channel_name": "LinkedIn",
-    "bidding_strategy": {
-      "Sponsored Content": "CPC",
-      "Dynamic Ad": "CPM"
+      "Display Ad": "CPA"
     }
   }
 ]

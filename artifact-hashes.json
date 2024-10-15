@@ -15,7 +15,7 @@
     "current": "6945d18a8ac5eb7b44dfbb7a756ee8b78ba0a0452baa45f0358a71a717291406"
   },
   "advertising_strategy.json": {
-    "current": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2",
+    "current": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd",
     "company_context.md": "27974fe8e067322a584b83320773de601fa2556e68bdfd545bedc2bc9b0e78b7",
     "marketing_budget.json": "6945d18a8ac5eb7b44dfbb7a756ee8b78ba0a0452baa45f0358a71a717291406",
     "brand_guidelines.md": "c372bd81cd0a20165b0b72e88293eed3f6c117f73a2d38b995a5e10c19e59713",
@@ -23,27 +23,27 @@
     "campaign_catalog.json": "b8da5806def6051a00d16957531ba38a30b7687d46694447dbf88b50689731fa"
   },
   "selected_channels.json": {
-    "current": "9734a9fc81d718452f1943818fec6c33bc0720fdbe1229e2e0f79ba85e432386",
-    "advertising_strategy.json": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2"
+    "current": "405aff82e65617c80c0e3fa5b58ed090a1c26ad65339510d98bcf58a13be36a4",
+    "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
   },
   "targeting_parameters.json": {
-    "current": "22c6f5dad4060eb80a44b9bd2bac3c39b0fdb186b60f6c14449d3d43c87aca46",
-    "advertising_strategy.json": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2"
+    "current": "539ee89498f908c3c42c6ec64feffd38491fce8885687e641229de2d9daaed2d",
+    "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
   },
   "goal.json": {
-    "current": "a8a7521874b43f5fa83c5813fa197676d467a3c48b90434bc193a4736471c07b",
-    "advertising_strategy.json": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2"
+    "current": "4f5cb0511770cc6beef4df8f5b80d5aae8aa0cbaf02a727d5becae2dcacb9abe",
+    "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
   },
   "budget_breakdown.json": {
-    "current": "2c0eb991dfdf04009ca465f280bb62142f36cb649136963120817c38ff66474f",
-    "advertising_strategy.json": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2"
+    "current": "a2000b607aa3979aa323aa41780fe4b9ec3d4674779c0d0c434e58865496f663",
+    "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
   },
   "schedule.json": {
-    "current": "77321b769e1f935bbd2d1cd0ee12edbe5ea1252f0c7aed7ebd792b3fb1a35176",
-    "advertising_strategy.json": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2"
+    "current": "bc0fd827baa423ce017e4d1f4aa643b99aa133d840d133505dec1f0f36d3b499",
+    "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
   },
   "analytics_tracking_plan.json": {
-    "current": "ae8f425db3c5547b12aa2cbc40acf6b78e78c970d93f6e4e62e87e2657b91bab",
-    "advertising_strategy.json": "53746144bb7290fdaf63b4f834cade23d56edbc2180b807fdd77bb7d3e2a52a2"
+    "current": "ce381c59bcbe1c39e834764e9c745f979ba22d2058a8bd475dc1082673f1189f",
+    "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
   }
 }

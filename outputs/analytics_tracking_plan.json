@@ -1,9 +1,8 @@
 {
-  "utm_setup": "Configured",
+  "utm_setup": "Configured for multi-channel campaign",
   "kpis": [
-    "Impressions",
-    "App installs",
-    "Conversion rate",
-    "Customer retention"
+    "Global user base growth",
+    "Mobile app adoption rate",
+    "Customer engagement metrics"
   ]
 }
