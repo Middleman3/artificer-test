@@ -1,7 +1,7 @@
 {
   "artifacts": [
     {
-      "fileName": "advertising_strategy.json",
+      "fileName": "ad_creative.json",
       "ensemble": "json"
     },
     {
@@ -26,6 +26,10 @@
   "dependencies": [
     {
       "from": "company_context.md",
+      "to": "advertising_strategy.json"
+    },
+    {
+      "from": "offering_details.md",
       "to": "advertising_strategy.json"
     },
     {
@@ -67,6 +71,22 @@
     {
       "from": "advertising_strategy.json",
       "to": "analytics_tracking_plan.json"
+    },
+    {
+      "from": "offering_details.json",
+      "to": "ad_creative.json"
+    },
+    {
+      "from": "goal.json",
+      "to": "ad_creative.json"
+    },
+    {
+      "from": "schedule.json",
+      "to": "ad_creative.json"
+    },
+    {
+      "from": "selected_channels.json",
+      "to": "ad_creative.json"
     }
   ]
 }
