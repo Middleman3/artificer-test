@@ -45,5 +45,8 @@
   "analytics_tracking_plan.json": {
     "current": "ce381c59bcbe1c39e834764e9c745f979ba22d2058a8bd475dc1082673f1189f",
     "advertising_strategy.json": "55930a768b3206c4512cccbbbc5ce1fcf8525b69bbce1ddd1d7b84ca789578dd"
+  },
+  "offering_details.md": {
+    "current": "7cf3219781d07fbfacd02606ee1d97aac11daa17c5c5c810c7303abbd17b93f6"
   }
 }
