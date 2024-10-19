@@ -1,4 +1,3 @@
-```json
 {
   "selected_channels": [
     {
@@ -53,33 +52,3 @@
     ]
   }
 }
-```
-
-### Explanation:
-
-1. **Selected Channels & Bidding Strategies**: 
-   - **Facebook**: Utilized for its broad global reach and effective video ad capabilities to drive awareness and engagement.
-     - **Video Ad** with a CPM strategy is selected to maximize exposure.
-     - **Image Ad** with a CPC strategy to increase traffic and potential conversions.
-   - **Instagram**: Chosen for its strong visual appeal and engagement rates among younger demographics.
-     - **Reel Ad** with CPV to engage users with new features.
-     - **Photo Ad** using CPM to maintain a visual presence.
-   - **Google**: Ideal for driving website traffic and conversions through search and display ads.
-     - **Search Ad** using CPC to drive targeted traffic.
-     - **Display Ad** with CPA to optimize for conversions.
-
-2. **Targeting Parameters**: 
-   - Tailored to reach young and tech-savvy audiences in emerging markets in Asia and South America, aligning with the current demographic focus.
-
-3. **Goal**: 
-   - Directly aligned with the company’s year-end KPI of increasing the global user base and the adoption of mobile solutions, emphasizing awareness and engagement.
-
-4. **Budget Breakdown**: 
-   - The funds are distributed across major platforms to leverage their unique strengths in accordance with the campaign goals, ensuring a balanced approach to reach and engagement.
-
-5. **Schedule**:
-   - The campaign spans over 14 months, allowing for sustained engagement and ongoing optimizations.
-
-6. **Analytics Tracking Plan**: 
-   - Emphasizes setting up UTM parameters for effective cross-channel tracking.
-   - Focus on key performance indicators that reflect the campaign’s impact on user base growth and mobile app adoption, ensuring alignment with strategic objectives.

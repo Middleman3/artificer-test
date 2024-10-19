@@ -1,28 +1,36 @@
 {
-  "artifacts": [
-    {
-      "fileName": "ad_creative.json",
-      "ensemble": "json"
+  "artifacts": {
+    "ad_creative": {
+      "fileType": "json"
     },
-    {
-      "fileName": "selected_channels.json"
+    "advertising_strategy": {
+      "fileType":  "json"
     },
-    {
-      "fileName": "targeting_parameters.json"
+    "selected_channels": {
+      "fileType": "json",
+      "ensemble_source": "advertising_strategy"
     },
-    {
-      "fileName": "goal.json"
+    "targeting_parameters": {
+      "fileType": "json",
+      "ensemble_result": "advertising_strategy"
     },
-    {
-      "fileName": "budget_breakdown.json"
+    "campaign_goal": {
+      "fileType": "json",
+      "ensemble_result": "advertising_strategy"
     },
-    {
-      "fileName": "schedule.json"
+    "budget_breakdown": {
+      "fileType": "json",
+      "ensemble_result": "advertising_strategy"
     },
-    {
-      "fileName": "analytics_tracking_plan.json"
+    "schedule": {
+      "fileType": "json",
+      "ensemble_result": "advertising_strategy"
+    },
+    "analytics_tracking_plan": {
+      "fileType": "json",
+      "ensemble_result": "advertising_strategy"
     }
-  ],
+  },
   "dependencies": [
     {
       "from": "company_context.md",
